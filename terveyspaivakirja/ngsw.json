@@ -1,0 +1,113 @@
+{
+  "configVersion": 1,
+  "timestamp": 1779562158149,
+  "index": "/terveyspaivakirja/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/terveyspaivakirja/chunk-2BSIWRRL.js",
+        "/terveyspaivakirja/chunk-4GQIDIAE.js",
+        "/terveyspaivakirja/chunk-4RP3ZD6X.js",
+        "/terveyspaivakirja/chunk-AYZLVQFG.js",
+        "/terveyspaivakirja/chunk-CVP6HLRU.js",
+        "/terveyspaivakirja/chunk-DDUIO2BX.js",
+        "/terveyspaivakirja/chunk-G7BK6S6Q.js",
+        "/terveyspaivakirja/chunk-GZHZ4YI6.js",
+        "/terveyspaivakirja/chunk-JDG2VOWG.js",
+        "/terveyspaivakirja/chunk-JEO4LZAF.js",
+        "/terveyspaivakirja/chunk-LGMZ3PFT.js",
+        "/terveyspaivakirja/chunk-N4ZVPQG6.js",
+        "/terveyspaivakirja/chunk-QDP6JOZV.js",
+        "/terveyspaivakirja/chunk-RNMDN42R.js",
+        "/terveyspaivakirja/chunk-S6Z6YLFK.js",
+        "/terveyspaivakirja/chunk-WQ3FQUDA.js",
+        "/terveyspaivakirja/chunk-YFUS56BV.js",
+        "/terveyspaivakirja/favicon.ico",
+        "/terveyspaivakirja/index.html",
+        "/terveyspaivakirja/main-KHZGPWER.js",
+        "/terveyspaivakirja/manifest.webmanifest",
+        "/terveyspaivakirja/polyfills-RV3JTMEC.js",
+        "/terveyspaivakirja/styles-OYGPFDLY.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/terveyspaivakirja/icons/icon-128x128.png",
+        "/terveyspaivakirja/icons/icon-144x144.png",
+        "/terveyspaivakirja/icons/icon-152x152.png",
+        "/terveyspaivakirja/icons/icon-192x192.png",
+        "/terveyspaivakirja/icons/icon-384x384.png",
+        "/terveyspaivakirja/icons/icon-512x512.png",
+        "/terveyspaivakirja/icons/icon-72x72.png",
+        "/terveyspaivakirja/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/terveyspaivakirja/chunk-2BSIWRRL.js": "cbfe4aa1882d2e3867055c23e26c01632e26f8ef",
+    "/terveyspaivakirja/chunk-4GQIDIAE.js": "581faeb09b7549cbf297ef45a2f6d9ceebba6185",
+    "/terveyspaivakirja/chunk-4RP3ZD6X.js": "08c9d8d000ad645c5fc929d206e34915ea5692d7",
+    "/terveyspaivakirja/chunk-AYZLVQFG.js": "db20ec5b92ac45cafe87c9e108c07662a8ba6d91",
+    "/terveyspaivakirja/chunk-CVP6HLRU.js": "529a909fef1b8e33d9af98ac270fbc74453e0493",
+    "/terveyspaivakirja/chunk-DDUIO2BX.js": "c8f8abce82b86f2597a416bbf5857d045fdf3e53",
+    "/terveyspaivakirja/chunk-G7BK6S6Q.js": "85bf3b3094925bed1bcc9c3126ea85bc447dcfed",
+    "/terveyspaivakirja/chunk-GZHZ4YI6.js": "76d83d3fc66e80f6878fcd0ac5926388397281ea",
+    "/terveyspaivakirja/chunk-JDG2VOWG.js": "23c266549edc4ffa5965616a73c9ec46ae697e75",
+    "/terveyspaivakirja/chunk-JEO4LZAF.js": "4f163b226b4fd15c3b1b5d8d358e0b44aef76eda",
+    "/terveyspaivakirja/chunk-LGMZ3PFT.js": "c89ddb3605f3e9e8f72d87a6778a7e2da56db295",
+    "/terveyspaivakirja/chunk-N4ZVPQG6.js": "cb6c95a4eb419bb6c0840767d49b299dfcec1210",
+    "/terveyspaivakirja/chunk-QDP6JOZV.js": "70b19a201a5578f86353ea847bb8feb3dc49c76b",
+    "/terveyspaivakirja/chunk-RNMDN42R.js": "abaffb035a66c83739db9ef373fcd67a7eba74db",
+    "/terveyspaivakirja/chunk-S6Z6YLFK.js": "9bf3b053e07ef5c75f61e4496f1336a5af769654",
+    "/terveyspaivakirja/chunk-WQ3FQUDA.js": "2cc678b6582d6da6aa3aede96ba33f140c8b9503",
+    "/terveyspaivakirja/chunk-YFUS56BV.js": "b1c4467f3130bd7826ef9fc626c7bf2f4f259a87",
+    "/terveyspaivakirja/favicon.ico": "a74367d286cbe38108a15aa43da8cd2b009aba62",
+    "/terveyspaivakirja/icons/icon-128x128.png": "1e9ada7f63387f7081addbd5d950199698fedc19",
+    "/terveyspaivakirja/icons/icon-144x144.png": "2a6b11dae5ba0ef60bf1ef345ddd33281306c7c5",
+    "/terveyspaivakirja/icons/icon-152x152.png": "a1867fdca6f3370c2f0f533822e007a00d1124ff",
+    "/terveyspaivakirja/icons/icon-192x192.png": "d9530de298775b9f76bdb67c0c981312fefbb5f6",
+    "/terveyspaivakirja/icons/icon-384x384.png": "278454da6f0d108318b1b35c4b64f5cea85274fd",
+    "/terveyspaivakirja/icons/icon-512x512.png": "526bb0e946f7b571bd3864bb2dfa897ed762f3cf",
+    "/terveyspaivakirja/icons/icon-72x72.png": "a949b075454cbb34b73928767f1ddf388608aa08",
+    "/terveyspaivakirja/icons/icon-96x96.png": "8af61cb6de5b2145a6d85d7ca258902847de17bd",
+    "/terveyspaivakirja/index.html": "9c55bc187d3665890a7505798c4f5cd79ffb7c7b",
+    "/terveyspaivakirja/main-KHZGPWER.js": "7e6796d0eb0e4850c9eeb3ed554f546c3cf0f356",
+    "/terveyspaivakirja/manifest.webmanifest": "b27a246a1da19a32976ed642d6944a62c117e9dd",
+    "/terveyspaivakirja/polyfills-RV3JTMEC.js": "e83dcd401293cfb45ad0988a17d1815b3bb09c33",
+    "/terveyspaivakirja/styles-OYGPFDLY.css": "fb00771154ade97416b1b16de2e9051c2cdb6a67"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
