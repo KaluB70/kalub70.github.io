@@ -1,6 +1,6 @@
 {
-  "name": "terveysseuranta",
-  "short_name": "terveysseuranta",
+  "name": "Terveysseuranta",
+  "short_name": "Terveysseuranta",
   "display": "standalone",
   "scope": "./",
   "start_url": "./",

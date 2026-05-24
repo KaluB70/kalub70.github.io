@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1779562158149,
+  "timestamp": 1779614762398,
   "index": "/terveyspaivakirja/index.html",
   "assetGroups": [
     {
@@ -87,7 +87,7 @@
     "/terveyspaivakirja/icons/icon-96x96.png": "8af61cb6de5b2145a6d85d7ca258902847de17bd",
     "/terveyspaivakirja/index.html": "9c55bc187d3665890a7505798c4f5cd79ffb7c7b",
     "/terveyspaivakirja/main-KHZGPWER.js": "7e6796d0eb0e4850c9eeb3ed554f546c3cf0f356",
-    "/terveyspaivakirja/manifest.webmanifest": "b27a246a1da19a32976ed642d6944a62c117e9dd",
+    "/terveyspaivakirja/manifest.webmanifest": "570e8f557f91c992438b4cffa5990490f8799821",
     "/terveyspaivakirja/polyfills-RV3JTMEC.js": "e83dcd401293cfb45ad0988a17d1815b3bb09c33",
     "/terveyspaivakirja/styles-OYGPFDLY.css": "fb00771154ade97416b1b16de2e9051c2cdb6a67"
   },
